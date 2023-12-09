@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Print("I LOVE YOU")
-
+	fmt.Print("I LOVE YOU <3")
 }
